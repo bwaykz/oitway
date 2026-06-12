@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oitway&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oitway&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+</div>
+
+
+
 ### 🔭 Tecnologia:
 
 - **BackEnd:**
