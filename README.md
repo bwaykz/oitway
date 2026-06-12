@@ -1,4 +1,10 @@
-<div align="center">
+### Hey you! Bwaykz! 👋
+#### Welcome!
+
+I love to learn, i'm very interessed, dedicated and curious person. I'm passionate about problem solving and I really like undestanding how all sorts of things work. And I'm very excited about technology, because I love to study, but most of all, I love putting what I've learned into practice. :)
+
+
+<div align="">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oitway&layout=compact&theme=radical" alt="Linguagens mais usadas" />
   <img src="https://github-readme-stats.vercel.app/api?username=oitway&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
 </div>
